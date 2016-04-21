@@ -42,7 +42,7 @@
   <ItemGroup>
     <Compile Include="Helper.cs" />
     <Compile Include="PerfLogNode.cs" />
-    <Compile Include="PerfLogHelper.cs" />
+    <Compile Include="PerfLogHelper.Core.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
